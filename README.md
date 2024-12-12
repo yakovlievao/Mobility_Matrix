@@ -1,9 +1,9 @@
-# Cars-Currents-and-Change
+# Mobility Matrix
 
 **Disclaimer**: The data in this repository has been independently compiled and analyzed from publicly available sources such as company annual reports. This repository is intended for educational and research purposes only. All original sources are credited, and no proprietary or confidential information is included.
 
+For more details, see the [DISCLAIMER](DISCLAIMER.md).
 
-# Mobility Matrix
 
 ## Overview
 This project delves into the evolving trends within the automotive industry, focusing on the following key areas:
