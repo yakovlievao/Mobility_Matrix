@@ -1,5 +1,8 @@
 # Cars-Currents-and-Change
 
+**Disclaimer**: The data in this repository has been independently compiled and analyzed from publicly available sources such as company annual reports. This repository is intended for educational and research purposes only. All original sources are credited, and no proprietary or confidential information is included.
+
+
 # Mobility Matrix
 
 ## Overview
