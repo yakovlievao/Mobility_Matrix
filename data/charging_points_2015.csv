@@ -1,0 +1,462 @@
+Straße,Hausnummer,Postleitzahl,Ort,Bundesland,latitude,longitude,commissioning_date
+Schlangenbader Str.,26,14197,Berlin,Berlin,52.472172,13.308104,2015
+Brielowerstr.,32,14770,Brandenburg,Brandenburg,,,2015
+Wittelsbacherstr.,19,10707,Berlin,Berlin,52.495371,13.308887,2015
+Rudolstädter Str.,123,10713,Berlin,Berlin,52.487809,13.302828,2015
+Aachener Str.,5,10713,Berlin,Berlin,52.481323,13.318856,2015
+Frankfurter Ring,35,80807,München,Bayern,48.18836,11.57445,2015
+Waitzstr.,7,10629,Berlin,Berlin,52.501687,13.305567,2015
+Pestalozzistr.,44,10627,Berlin,Berlin,52.5337,13.414964,2015
+Suarezstr.,1,10627,Berlin,Berlin,52.510481,13.296954,2015
+Augsburger Straße,49,89312,Günzburg,Bayern,48.45308,10.28582,2015
+Mauergasse,0,55566,Bad Sobernheim,Rheinland-Pfalz,49.78581,7.64827,2015
+Engelgasse,8,92360,Mühlhausen,Bayern,49.181696,11.414269,2015
+Marktplatz,27,92342,Freystadt,Bayern,49.198744,11.328916,2015
+Im Bache,21,37120,Bovenden,Niedersachsen,,,2015
+Schlüterstr.,62,10625,Berlin,Berlin,52.505876,13.317669,2015
+Schiede,41,65549,Limburg,Hessen,,,2015
+Eupener Straße,70,52066,Aachen,Nordrhein-Westfalen,50.759245,6.084423,2015
+Am Bahnhof,0,14974,Ludwigsfelde,Brandenburg,52.29896,13.2667,2015
+Uhlandstr.,61,10719,Berlin,Berlin,52.494521,13.323631,2015
+Durlacher Str.,35,10715,Berlin,Berlin,52.481312,13.329605,2015
+Diebacher Straße,4,91610,Insingen,Bayern,49.303938,10.16661,2015
+Osnabrücker Str.,26,10589,Berlin,Berlin,52.525864,13.301083,2015
+Fasanenstr.,88,10623,Berlin,Berlin,52.510247,13.329894,2015
+Osteroder Straße,3,37412,Herzberg am Harz,Niedersachsen,51.6557,10.33391,2015
+Am Olympiapark,1,80809,München,Bayern,48.177711,11.556978,2015
+Am Olympiapark,1,80809,München,Bayern,48.177711,11.556978,2015
+Am Olympiapark,1,80809,München,Bayern,48.177711,11.556978,2015
+Eulersweg,2,52070,Aachen,Nordrhein-Westfalen,50.798977,6.104672,2015
+Süsterfeldstraße,200,52072,Aachen,Nordrhein-Westfalen,50.790125,6.060361,2015
+Rathausstr.,5,53940,Hellenthal,Nordrhein-Westfalen,50.490023,6.442749,2015
+Hahlestraße,1,37434,Gieboldehausen,Niedersachsen,,,2015
+Riegeler Str.,12,79331,Teningen,Baden-Württemberg,48.128363,7.808779,2015
+Riegeler Str.,12,79331,Teningen,Baden-Württemberg,48.128363,7.808779,2015
+Zum Handwerkszentrum,1,21079,Hamburg,Hamburg,53.457804,9.994314,2015
+Veritaskai,3,21079,Hamburg,Hamburg,53.466268,9.986486,2015
+Weseler Straße,2,46514,Schermbeck,Nordrhein-Westfalen,51.69105,6.866733,2015
+Ludwigkirchstr.,6,10719,Berlin,Berlin,52.497883,13.324219,2015
+Charlottenburger Ufer,1,10587,Berlin,Berlin,52.52122,13.300289,2015
+Hamburger Straße,27,22083,Hamburg,Hamburg,53.571903,10.02813,2015
+Marktplatz,9,92366,Hohenfels,Bayern,49.20284,11.848001,2015
+Bernkasteler Straße,0,54497,Morbach,Rheinland-Pfalz,49.811133,7.12105,2015
+Sackgasse,18,65549,Limburg an der Lahn,Hessen,,,2015
+Julius-Ludowieg-Straße,23,21073,Hamburg,Hamburg,53.4596,9.97673,2015
+Aldekerker Straße,0,47509,Rheurdt,Nordrhein-Westfalen,51.46735,6.468367,2015
+Schwarzenbergstraße,95,21075,Hamburg,Hamburg,53.463805,9.9702,2015
+Nobleestraße,3,21075,Hamburg,Hamburg,53.466082,9.963175,2015
+Große Breite,6,37077,Göttingen,Niedersachsen,51.560188,9.926093,2015
+Am Sieltief,1,26919,Brake,Niedersachsen,,,2015
+Steinweg,10,91567,Herrieden,Bayern,49.237871,10.496559,2015
+Schweimlerstraße,1,22087,Hamburg,Hamburg,53.561661,10.016461,2015
+Schwanenmarkt,2,47647,Kerken,Nordrhein-Westfalen,51.456117,6.374683,2015
+Bierweg,6,4435,Schkeuditz,Sachsen,51.39956,12.19167,2015
+Wettinerstraße,15,4600,Altenburg,Thüringen,50.996382,12.443344,2015
+Am kleinen Teich,0,4600,Altenburg,Thüringen,50.983852,12.437473,2015
+Schmöllnsche Straße,31,4600,Altenburg,Thüringen,50.983494,12.431972,2015
+Kornmarkt,1,4600,Altenburg,Thüringen,50.984432,12.433288,2015
+Bahnhofstraße,21,91472,Ipsheim,Bayern,49.526542,10.486752,2015
+Essener Straße,46/48,45470,Mülheim,Nordrhein-Westfalen,51.427481,6.899068,2015
+Kurt-Schumacher-Allee,10,22097,Hamburg,Hamburg,53.552208,10.01809,2015
+Pappelallee,41,22089,Hamburg,Hamburg,53.567386,10.059232,2015
+Sommergasse,1,37412,Herzberg am Harz,Niedersachsen,51.65542,10.34225,2015
+Marktplatz,20,91567,Herrieden,Bayern,49.23313,10.498075,2015
+Paul-Robeson-Str.,50,10439,Berlin,Berlin,52.552103,13.413783,2015
+Krügerstr.,25,10439,Berlin,Berlin,52.55057,13.429248,2015
+Walter-Rudolphi-Weg,5,21035,Hamburg,Hamburg,53.489639,10.157795,2015
+Obere Gasse,12,72108,Rottenburg am Neckar,Baden-Württemberg,,,2015
+Am Moos,0,96465,Neustadt,Bayern,50.331041,11.113324,2015
+Gartenstr,0,96465,Neustadt,Bayern,50.329264,11.12333,2015
+Hornisgrindestr.,0,77731,Willstätt,Baden-Württemberg,48.539177,7.897564,2015
+Schlossmühlendamm,23,21073,Hamburg,Hamburg,53.463009,9.981628,2015
+Wichertstr.,34,10439,Berlin,Berlin,52.546751,13.424988,2015
+Schönfließer Str.,9,10439,Berlin,Berlin,52.553752,13.408519,2015
+Franz Parr Platz,0,18273,Güstrow,Mecklenburg-Vorpommern,53.791124,12.175709,2015
+Handwerkerstrasse,1,46485,Wesel,Nordrhein-Westfalen,51.675017,6.626717,2015
+Porschestraße,5-9,72622,Nürtingen,Baden-Württemberg,48.612541,9.346794,2015
+Raumerstr.,6,10437,Berlin,Berlin,52.543283,13.417228,2015
+Ivo-Hauptmann-Ring,9,22159,Hamburg,Hamburg,53.601705,10.112279,2015
+Berner Heerweg,372,22159,Hamburg,Hamburg,53.628011,10.140354,2015
+Schlossweg,1,48465,Schüttorf,Niedersachsen,52.328366,7.227641,2015
+Naugarder Str.,1,10409,Berlin,Berlin,52.542085,13.438961,2015
+Pelkovenstraße,145,80992,München,Bayern,48.182393,11.530895,2015
+John-Schehr-Str.,66,10407,Berlin,Berlin,52.533827,13.442525,2015
+Bahnhofsvorplatz,0,56812,Cochem,Rheinland-Pfalz,50.153116,7.167477,2015
+Poststraße,23,56759,Kaisersesch,Rheinland-Pfalz,50.229771,7.138141,2015
+Am Viehmarkt,0,54576,Hillesheim,Rheinland-Pfalz,50.289417,6.672817,2015
+Fischerdamm,0,19370,Parchim,Mecklenburg-Vorpommern,53.425894,11.845686,2015
+Großer Schippsee,18,21073,Hamburg,Hamburg,53.460619,9.98337,2015
+Kollwitzstr.,35,10405,Berlin,Berlin,52.5337,13.414964,2015
+Moosrosenweg,18,22177,Hamburg,Hamburg,53.603208,10.069108,2015
+Überseering,10,22297,Hamburg,Hamburg,53.604371,10.026856,2015
+Jarrestraße,10,22222,Hamburg,Hamburg,53.584161,10.021787,2015
+Nöldnerstr.,9,10317,Berlin,Berlin,52.501809,13.4779,2015
+Borgweg,10,22303,Hamburg,Hamburg,53.589499,10.015993,2015
+Bedaplatz,23,54634,Bitburg,Rheinland-Pfalz,49.97051,6.52162,2015
+Bahnhofsplatz,4,38723,Seesen,Niedersachsen,51.53169,10.10225,2015
+Schwarzenbacher Straße,1A,93470,Lohberg,Bayern,49.171534,13.089162,2015
+Am Rübezahlwald,7,51469,Bergisch Gladbach,Nordrhein-Westfalen,50.97695,7.143299,2015
+Poppenhusenstraße,2,22305,Hamburg,Hamburg,53.585581,10.043033,2015
+Büschingstr.,1,10249,Berlin,Berlin,52.525626,13.428995,2015
+Kochhannstr.,9,10249,Berlin,Berlin,52.524128,13.448454,2015
+Fuhlsbüttler Straße,387,22307,Hamburg,Hamburg,53.602574,10.040627,2015
+Gutenbergstr.,20,30823,Garbsen,Niedersachsen,52.422189,9.573586,2015
+Gutenbergstr.,20,30823,Garbsen,Niedersachsen,52.422189,9.573586,2015
+Forckenbeckstraße,30,52074,Aachen,Nordrhein-Westfalen,50.78062,6.05082,2015
+Oderstraße,20,14513,Teltow,Brandenburg,52.401287,13.246706,2015
+Mittelstraße,32,32683,Barntrup,Nordrhein-Westfalen,51.99056,9.11174,2015
+Scharnweberstr.,1A,10247,Berlin,Berlin,52.511975,13.474964,2015
+Saaler Mühle,1,51429,Bergisch Gladbach,Nordrhein-Westfalen,50.964563,7.137251,2015
+Erdkampsweg,20,22335,Hamburg,Hamburg,53.62824,10.024542,2015
+Stationsstraße,1,51465,Bergisch Gladbach,Nordrhein-Westfalen,50.989881,7.122949,2015
+Ladestraße,2,57518,Betzdorf,Rheinland-Pfalz,50.791133,7.869383,2015
+Kurt-Tucholsky-Str.,1,41539,Dormagen,Nordrhein-Westfalen,51.09979,6.81741,2015
+Mathias-Giesen-Str.,13,41540,Dormagen,Nordrhein-Westfalen,51.09306,6.8199,2015
+Im Grünen Grunde,1C,22337,Hamburg,Hamburg,53.621418,10.030869,2015
+Koppenstr.,46,10243,Berlin,Berlin,52.520102,13.437725,2015
+Heegbarg,31,22391,Hamburg,Hamburg,53.655534,10.092595,2015
+KattJahren,4,22359,Hamburg,Hamburg,53.651913,10.162925,2015
+Feldstraße,51,22357,Hamburg,Hamburg,53.556978,9.973255,2015
+Am Rathaus,4,48346,Ostbevern,Nordrhein-Westfalen,52.035326,7.838954,2015
+Backnanger Str.,26,71573,Allmersbach i.T.,Baden-Württemberg,,,2015
+Talstraße,1,54666,Irrel,Rheinland-Pfalz,49.846767,6.4575,2015
+Kadiner Str.,1,10243,Berlin,Berlin,52.515183,13.450787,2015
+Blücherstr.,19,10961,Berlin,Berlin,52.4948,13.398243,2015
+Lohbrügger Landstraße,6,21031,Hamburg,Hamburg,53.495595,10.205528,2015
+Bodestraße,1,21031,Hamburg,Hamburg,53.507891,10.180407,2015
+Dorfstrasse,11,79874,Breitnau,Baden-Württemberg,47.939779,8.080231,2015
+Fürst-Eberhard-Str.,3,88353,Kißlegg,Baden-Württemberg,47.788432,9.880758,2015
+Friedrich-Uhdestr.,8,65812,Bad Soden,Hessen,50.136309,8.51332,2015
+Marchlewskistr.,107,10243,Berlin,Berlin,52.507889,13.449568,2015
+Stormarnplatz,1,22393,Hamburg,Hamburg,53.651655,10.094765,2015
+Hansestraße,115,51149,Köln,Nordrhein-Westfalen,50.91278,7.056672,2015
+Bahnhofstr.,6,13055,Berlin,Berlin,52.544716,13.498685,2015
+Gabelsbergerstraße,20,86199,Augsburg,Bayern,48.346967,10.87174,2015
+Unterer Talweg,48,86179,Augsburg,Bayern,48.31897,10.89212,2015
+Wittstocker Straße,7,25436,Tornesch,Schleswig-Holstein,,,2015
+Wittstocker Straße,7,25436,Tornesch,Schleswig-Holstein,53.692984,9.699898,2015
+Bahnhofsplatz,1,25436,Tornesch,Schleswig-Holstein,53.696047,9.714173,2015
+Borsteler Chaussee,17,22453,Hamburg,Hamburg,53.60409,9.984919,2015
+Essener Bogen,1,22419,Hamburg,Hamburg,53.674787,9.996345,2015
+Werner-Seelenbinder-Str.,11b,9120,Chemnitz,Sachsen,50.805651,12.921763,2015
+Kieler Strasse,21 B,24783,Osterrönfeld,Schleswig-Holstein,54.295806,9.707114,2015
+Bahnhofsplatz,1,25436,Tornesch,Schleswig-Holstein,,,2015
+Ulmer Straße,9,89257,Illertissen,Bayern,48.22324,10.10281,2015
+Krankenhausstraße,1,89257,Illertissen,Bayern,48.22433,10.105,2015
+Am Bewegungsbad,2,35080,Bad Endbach,Hessen,50.756064,8.480984,2015
+Delitzscher Straße,180,6116,Halle (Saale),Sachsen-Anhalt,51.47899,12.03491,2015
+Am Bahnhof,0,93426,Roding,Bayern,49.213839,12.514206,2015
+Solmsstr.,16,10961,Berlin,Berlin,52.491583,13.392549,2015
+Herbert-Baum-Str.,4,13088,Berlin,Berlin,52.548972,13.455833,2015
+Alexander-von-Humboldt-Straße,1,34253,Lohfelden,Hessen,51.272142,9.527385,2015
+Alexander-von-Humboldt-Straße,1,34253,Lohfelden,Hessen,51.272142,9.527385,2015
+Untere Straße,9,89290,Buch,Bayern,48.223334,10.178266,2015
+Hafenstraße,12C,18546,Sassnitz,Mecklenburg-Vorpommern,54.511421,13.639987,2015
+Berliner Allee,51-53,40212,Düsseldorf,Nordrhein-Westfalen,51.220421,6.781619,2015
+Berliner Allee,51-53,40212,Düsseldorf,Nordrhein-Westfalen,51.220492,6.781641,2015
+Mühlenstr.,17,13187,Berlin,Berlin,52.56623,13.405779,2015
+Brennerstr.,90,13187,Berlin,Berlin,52.558692,13.412595,2015
+Kissingenstr.,26,13189,Berlin,Berlin,52.567806,13.425986,2015
+Heedfelder Straße,45,58509,Lüdenscheid,Nordrhein-Westfalen,51.225186,7.615398,2015
+Dölauer Straße,77,6120,Halle (Saale),Sachsen-Anhalt,51.50793,11.92701,2015
+Eschenweg,1,79859,Schluchsee,Baden-Württemberg,47.96404,7.768852,2015
+Bahnhofweg,2,79856,Hinterzarten,Baden-Württemberg,47.90592,8.106344,2015
+Am Rathausplatz,13,49439,Steinfeld,Niedersachsen,52.586483,8.216317,2015
+Walter-Hülse-Straße,0,6120,Halle (Sale,Sachsen-Anhalt,51.49438,11.93749,2015
+Am Stadion,5,6122,Halle (Saale),Sachsen-Anhalt,51.48168,11.91592,2015
+Moosstraße,13,72250,Freudenstadt,Baden-Württemberg,48.466998,8.409437,2015
+Koppelstraße,0,22527,Hamburg,Hamburg,53.593396,9.942715,2015
+Pascalstrasse,9,25451,Quickborn,Schleswig-Holstein,53.743011,9.940672,2015
+Nürnberger Straße,20,91244,Reichenschwand,Bayern,49.513754,11.370972,2015
+Hauptstraße,32,90607,Rückersdorf,Bayern,49.49369,11.24312,2015
+Industriestraße,19,91207,Lauf an der Pegnitz,Bayern,49.502792,11.291475,2015
+Bahnstraße,0,52134,Herzogenrath,Nordrhein-Westfalen,50.832344,6.075451,2015
+Kannengießerstraße,5,38100,Braunschweig,Niedersachsen,52.264858,10.519701,2015
+Rathausstraße,1,52459,Inden,Nordrhein-Westfalen,50.846067,6.35815,2015
+Bittengasse,3,79843,Löffingen,Baden-Württemberg,47.884107,8.345817,2015
+Kirchplatz,1,79853,Lenzkirch,Baden-Württemberg,47.868066,8.202655,2015
+Bernburger Str.,34,10963,Berlin,Berlin,52.504762,13.380887,2015
+Wartenburgstr.,24,10963,Berlin,Berlin,52.495127,13.383722,2015
+Vierlandenstraße,10,21029,Hamburg,Hamburg,53.488148,10.210893,2015
+Schulenbrooksweg,1,21029,Hamburg,Hamburg,53.486988,10.218075,2015
+Neuer Weg,21,21029,Hamburg,Hamburg,53.485806,10.213129,2015
+Nibelungenstraße,16,86343,Königsbrunn,Bayern,48.28364,10.88803,2015
+Herzog-Johann-Albrecht-Straße,2,38700,Braunlage,Niedersachsen,,,2015
+Herzog-Johann-Albrecht-Str.,2,38700,Braunlage,Niedersachsen,51.433871,10.36309,2015
+Neuer Weyerstraßenweg,3,50969,Köln,Nordrhein-Westfalen,50.906275,6.933867,2015
+Erik-Blumfeld-Platz,9,22587,Hamburg,Hamburg,53.563419,9.815025,2015
+Heinrich-Plett-Str.,4,22609,Hamburg,Hamburg,53.571177,9.864905,2015
+Ohnhorststraße,18,22609,Hamburg,Hamburg,53.558802,9.863475,2015
+Buddikate Ost,0,22965,Todendorf,Schleswig-Holstein,53.692409,10.322275,2015
+Wrangelstr.,35,10997,Berlin,Berlin,52.500491,13.437175,2015
+Kapitän-Willi-Freter-Platz,0,23774,Heiligenhafen,Schleswig-Holstein,54.374465,10.981566,2015
+Eiffestraße,450,20537,Hamburg,Hamburg,53.55205,10.046934,2015
+Harburger Chaussee,17,20539,Hamburg,Hamburg,53.520476,10.013471,2015
+Wassertorstr.,53,10969,Berlin,Berlin,52.500008,13.407592,2015
+Schenkendorfstr.,8,10965,Berlin,Berlin,52.489075,13.392945,2015
+Gutachstr.,36,79822,Titisee-Neustadt,Baden-Württemberg,47.918977,8.203733,2015
+Parkstraße beim Bahnhof,0,79822,Titisee,Baden-Württemberg,47.903012,8.144799,2015
+Schönleinstr.,20,10967,Berlin,Berlin,52.490197,13.419889,2015
+Grimmstr.,9,10967,Berlin,Berlin,52.493476,13.413538,2015
+Bürgerhofgasse,999,67547,Worms,Rheinland-Pfalz,49.63032,8.363546,2015
+Obere Promenade,3,58706,Menden,Nordrhein-Westfalen,51.435536,7.793041,2015
+Elbchaussee,139,22763,Hamburg,Hamburg,53.546009,9.914352,2015
+Scheidtweilerstraße,38,50933,Köln,Nordrhein-Westfalen,50.938688,6.906852,2015
+Von-Sauer-Straße,11,22761,Hamburg,Hamburg,53.56558,9.908842,2015
+Messeplatz,1,9116,Chemnitz,Sachsen,50.817782,12.882904,2015
+Heiligengeistbrücke,2,20459,Hamburg,Hamburg,53.548722,9.986612,2015
+Belchenstraße,22,79244,Münstertal,Baden-Württemberg,47.855827,7.777423,2015
+Rathausplatz,7,79274,St. Märgen,Baden-Württemberg,48.006988,8.092218,2015
+Donnerbachweg,15,53332,Bornheim,Nordrhein-Westfalen,50.76773,6.948761,2015
+Spremberger Str.,7,12047,Berlin,Berlin,52.494063,13.423077,2015
+Jansastr.,13,12045,Berlin,Berlin,52.485832,13.433537,2015
+Reichenberger Str.,20,10999,Berlin,Berlin,52.498568,13.419909,2015
+Lausitzer Str.,6,10999,Berlin,Berlin,52.553752,13.408519,2015
+Kirchenplatz,2,18119,Rostock,Mecklenburg-Vorpommern,54.176589,12.085357,2015
+Dümmerstraße,39,49401,Damme,Niedersachsen,52.529383,8.310067,2015
+Eisenbahnstr.,39,10997,Berlin,Berlin,52.502519,13.432597,2015
+Max-Brauer-Allee,54,22765,Hamburg,Hamburg,53.552634,9.937653,2015
+Holstenplatz,14,22765,Hamburg,Hamburg,53.561321,9.948481,2015
+Prinz-Fritzi-Allee,2,78166,Donaueschingen,Baden-Württemberg,47.94881,8.50191,2015
+Prinz-Fritzi-Allee,2,78166,Donaueschingen,Baden-Württemberg,47.94881,8.50191,2015
+Stadttor,1,40219,Düsseldorf,Nordrhein-Westfalen,51.215627,6.762077,2015
+Peter-Sengl-Straße,26,86447,Aindling,Bayern,48.51257,10.96182,2015
+Schillerstraße,44,22767,Hamburg,Hamburg,53.550574,9.938309,2015
+Palmaille,73,22767,Hamburg,Hamburg,53.546437,9.935543,2015
+Königstraße,4A,22767,Hamburg,Hamburg,53.549762,9.953949,2015
+Kattrepel,20,22767,Hamburg,Hamburg,53.549675,9.999197,2015
+Am Obersee,2,52152,Simmerath,Nordrhein-Westfalen,50.58199,6.3792,2015
+Garstedter Weg,2,20453,Hamburg,Hamburg,53.617892,9.951152,2015
+Hauptstraße,59,64753,Brombachtal,Hessen,49.732325,8.957419,2015
+Braunschweiger Str.,1,12055,Berlin,Berlin,52.474377,13.454383,2015
+Leykestr.,18,12053,Berlin,Berlin,52.474872,13.42787,2015
+Köhlstraße,8,50827,Köln,Nordrhein-Westfalen,50.975525,6.897439,2015
+Schlachthofstraße,8,37308,Heilbad Heiligenstadt,Thüringen,51.38129,10.136672,2015
+Am Sportpark,1b,85049,Ingolstadt,Bayern,48.74678,11.48631,2015
+Am Sportpark,1,85049,Ingolstadt,Bayern,48.74494,11.48414,2015
+Auf'm Hennekamp,47 c,40225,Düsseldorf,Nordrhein-Westfalen,51.204309,6.786569,2015
+Bernhard-von-Cotta-Straße,0,9599,Freiberg,Sachsen,50.925379,13.328881,2015
+Georgenstr.,6,8056,Zwickau,Sachsen,50.718932,12.49008,2015
+Manfred-Oechsle-Platz,1,72764,Reutlingen,Baden-Württemberg,48.491249,9.206806,2015
+Nördliche Hauptstraße,18,86517,Wehringen,Bayern,48.248329,10.802902,2015
+Rathausstraße,1,86507,Kleinaitingen,Bayern,48.21795,10.84209,2015
+Münchener Str.,46,83527,Haag i.OB,Bayern,48.163586,12.169159,2015
+Werner-von-Siemens-Straße,18,86405,Meitingen,Bayern,48.550326,10.855648,2015
+Zur Hansemesse,1,18106,Rostock,Mecklenburg-Vorpommern,54.138581,12.07458,2015
+Schlossstraße,2,86405,Meitingen,Bayern,48.54183,10.85328,2015
+Werner-von-Siemens-Straße,18,86405,Meitingen,Bayern,48.550326,10.855648,2015
+Von-Liebig-Straße,20,53359,Rheinbach,Nordrhein-Westfalen,50.632433,6.951283,2015
+Osakaallee,6,20457,Hamburg,Hamburg,53.543508,9.997992,2015
+Stockholmer Str.,9,7743,Jena,Thüringen,50.87816,11.61594,2015
+Auf'm Hennekamp,47 c,40225,Düsseldorf,Nordrhein-Westfalen,51.204383,6.786457,2015
+Auf'm Hennekamp,47 c,40225,Düsseldorf,Nordrhein-Westfalen,51.204463,6.786328,2015
+Eisenstraße,35,40227,Düsseldorf,Nordrhein-Westfalen,51.217378,6.794994,2015
+Fichtenstraße,49,40233,Düsseldorf,Nordrhein-Westfalen,51.216006,6.812059,2015
+Kirchstr.,18,88699,Frickingen,Baden-Württemberg,47.81393,9.272603,2015
+Bahnhofsallee,5,53639,Königswinter,Nordrhein-Westfalen,50.678217,7.19345,2015
+Mummendorfer Weg,7,23769,Burg auf Fehmarn,Schleswig-Holstein,54.443061,11.178431,2015
+Kirchstr.,18,88699,Frickingen,Baden-Württemberg,,,2015
+Altonaer Straße,61,20357,Hamburg,Hamburg,53.564804,9.96358,2015
+Paul-Egell-Straße,0,67346,Speyer,Rheinland-Pfalz,49.310099,8.436961,2015
+Georg-Peter-Süß-Straße,2,67346,Speyer,Rheinland-Pfalz,49.303667,8.448267,2015
+Bauhof,2,67346,Speyer,Rheinland-Pfalz,49.317606,8.440759,2015
+Barnitzer Strasse,1-7,23858,Reinfeld,Schleswig-Holstein,53.822247,10.502461,2015
+Georgstr.,13,9111,Chemnitz,Sachsen,50.841012,12.922595,2015
+Karwendelstraße,11,86807,Buchloe,Bayern,48.03446,10.71515,2015
+Gustav-Heinemann-Str.,2,50181,Bedburg,Nordrhein-Westfalen,51.006307,6.550946,2015
+Luisenstrasse,7,78073,Bad Dürrheim,Baden-Württemberg,48.018041,8.531718,2015
+Hoppenrader Allee,1,14641,Wustermark,Brandenburg,52.54747,12.94009,2015
+Düsseldorfer Straße,26,40822,Mettmann,Nordrhein-Westfalen,51.252,6.9716,2015
+Franz-Nause-Straße,3,30453,Hannover,Niedersachsen,52.37557,9.694587,2015
+Karwendelstraße,11,86807,Buchloe,Bayern,48.03446,10.71515,2015
+Karwendelstraße,11,86807,Buchloe,Bayern,48.03446,10.71515,2015
+Karwendelstraße,11,86807,Buchloe,Bayern,48.03446,10.71515,2015
+Hohe Weide,10,20259,Hamburg,Hamburg,53.570304,9.964881,2015
+Hiltenfinger Straße,13,86853,Langerringen,Bayern,48.151443,10.754102,2015
+Raststätte Siegburg West,0,53721,Siegburg,Nordrhein-Westfalen,50.80624,7.220453,2015
+Opelkreisel,3,67663,Kaiserslautern,Rheinland-Pfalz,49.439434,7.70265,2015
+Opelkreisel,3,67663,Kaiserslautern,Rheinland-Pfalz,49.439434,7.70265,2015
+Schöneberger Str.,4,12163,Berlin,Berlin,52.464278,13.330027,2015
+Lindenallee,1,26441,Jever,Niedersachsen,53.57195,7.89861,2015
+Karwendelstraße,11,86807,Buchloe,Bayern,48.03446,10.71515,2015
+Karwendelstraße,11,86807,Buchloe,Bayern,48.03446,10.71515,2015
+Harzerstraße,8,78054,Villingen-Schwenningen,Baden-Württemberg,,,2015
+Harzerstraße,8,78054,Villingen-Schwenningen,Baden-Württemberg,48.062515,8.532867,2015
+Karwendelstraße,11,86807,Buchloe,Bayern,48.03446,10.71515,2015
+Karwendelstraße,11,86807,Buchloe,Bayern,48.03446,10.71515,2015
+Hindenburgdamm,29,12203,Berlin,Berlin,52.440122,13.316541,2015
+Bismarckstr.,36,12169,Berlin,Berlin,52.451796,13.338099,2015
+Eppendorfer Weg,203,20259,Hamburg,Hamburg,53.58113,9.969798,2015
+Alt-Möllner-Str.,14-18,23879,Mölln,Schleswig-Holstein,,,2015
+Stellinger Weg,37,20255,Hamburg,Hamburg,53.579727,9.948501,2015
+Friedrich-Tobaben-Platz,0,21698,Harsefeld,Niedersachsen,53.453963,9.503722,2015
+Abram-Joffe-Str.,18,12489,Berlin,Berlin,52.432581,13.527693,2015
+Henriettenstraße,77,20259,Hamburg,Hamburg,53.575248,9.951946,2015
+Hindenburgdamm,65 c/d,12165,Berlin,Berlin,52.453059,13.315737,2015
+Büschstraße,12,20354,Hamburg,Hamburg,53.556103,9.989969,2015
+Lattenkamp,79,20299,Hamburg,Hamburg,53.600546,9.994941,2015
+Straße der Nationen,25,9111,Chemnitz,Sachsen,50.83669,12.92504,2015
+Am Rathaus,1,9111,Chemnitz,Sachsen,50.831822,12.92141,2015
+Hebelstrasse,28,79688,Hausen,Baden-Württemberg,47.683368,7.842388,2015
+Hauptstr.,24,89555,Steinheim,Baden-Württemberg,48.69274,10.06439,2015
+Wächterbacher Str.,75,60386,Frankfurt am Main,Hessen,50.07563,8.44572,2015
+Wächterbacher Str.,75,60386,Frankfurt am Main,Hessen,50.07563,8.44572,2015
+Nettenbergstraße,1,79618,Degerfelden,Baden-Württemberg,47.570283,7.751207,2015
+Traunsteiner Str.,14,83334,Inzell,Bayern,47.763916,12.747371,2015
+Franz- Josef- Fallerstraße,2,79674,Todtnau,Baden-Württemberg,47.828965,7.944554,2015
+Schönenbergerstrasse,10,79618,Rheinfelden,Baden-Württemberg,47.573867,7.801181,2015
+Adolf-Senger-Strasse,1,79618,Rheinfelden,Baden-Württemberg,47.566401,7.78518,2015
+Eichamtstrasse,15,79618,Rheinfelden,Baden-Württemberg,47.560822,7.786135,2015
+Mittelstraße,15,49838,Lengerich (Emsland),Niedersachsen,52.55168,7.53103,2015
+Lehmweg,27,20251,Hamburg,Hamburg,53.581782,9.979558,2015
+Gablerstr.,1,88250,Weingarten,Baden-Württemberg,47.80794,9.63923,2015
+Schelmenhofstraße,0,87600,Kaufbeuren,Bayern,47.57524,10.63029,2015
+Eckweg,3,78048,Villingen-Schwenningen,Baden-Württemberg,,,2015
+Wilhelmshavener Str.,27,13581,Berlin,Berlin,52.533244,13.195488,2015
+Südliche Fürther Straße,14,90429,Nürnberg,Bayern,49.448534,11.062629,2015
+Flughafenstraße,100,90411,Nürnberg,Bayern,49.492475,11.078767,2015
+Dr.-Stiebel-Straße,33,37603,Holzminden,Niedersachsen,,,2015
+Buchhofstraße,13,32351,Stemwede,Nordrhein-Westfalen,52.373721,8.456091,2015
+Archivstraße,2,30169,Hannover,Niedersachsen,52.369924,9.729604,2015
+Windmühlenstraße,7,30159,Hannover,Niedersachsen,52.372418,9.738825,2015
+Gerichtsstraße,1,32369,Rahden,Nordrhein-Westfalen,52.43316,8.61517,2015
+Jungfrauenthal,8,20149,Hamburg,Hamburg,53.581334,9.986575,2015
+Am Eichelkamp,8,53783,Eitorf,Nordrhein-Westfalen,50.7745,7.448117,2015
+Hallgrafenstraße,2,83435,Bad Reichenhall,Bayern,,,2015
+Kümmellstraße,5,20249,Hamburg,Hamburg,53.590221,9.985175,2015
+Haupstr.,304,79576,Weil am Rhein,Baden-Württemberg,47.592485,7.611964,2015
+Andreaestraße,4,30159,Hannover,Niedersachsen,52.376186,9.737165,2015
+Andreaestraße,4,30159,Hannover,Niedersachsen,52.376186,9.737165,2015
+Viktor-Schroeder-Straße,0,52382,Niederzier,Nordrhein-Westfalen,52.529383,8.310067,2015
+Bahnhofstrasse,1,79539,Lörrach,Baden-Württemberg,47.614865,7.665696,2015
+Wallbrunnstrasse,42,79539,Lörrach,Baden-Württemberg,47.610213,7.664981,2015
+Friedrichswall,1,30159,Hannover,Niedersachsen,52.369409,9.734357,2015
+Kirchstraße,5,56751,Polch,Rheinland-Pfalz,50.29947,7.31244,2015
+Marktstraße,1,49757,Werlte,Niedersachsen,52.85226,7.67645,2015
+Bahnhofstr.,23,88048,Friedrichshafen/Kluftern,Baden-Württemberg,47.687666,9.40958,2015
+Moorweidenstraße,22,20146,Hamburg,Hamburg,53.56392,9.989072,2015
+Museumsplatz,1,88161,Lindenberg,Bayern,,,2015
+Liebenauer Straße,118,6110,Halle (Saale),Sachsen-Anhalt,51.46389,11.97896,2015
+Bahnhofplatz,14/1,88214,Ravensburg,Baden-Württemberg,47.78327,9.6064,2015
+Hansestraße,999,21614,Buxtehude,Niedersachsen,53.476233,9.703083,2015
+Straßburger Allee,3,41812,Erkelenz,Nordrhein-Westfalen,51.06154,6.314009,2015
+Windmühlenstraße,7,30159,Hannover,Niedersachsen,52.372418,9.738825,2015
+Max-Stromeyer-Straße,122,78467,Konstanz,Baden-Württemberg,,,2015
+Hainstraße,34,90461,Nürnberg,Bayern,49.43989,11.102797,2015
+Rheinstraße,27,79415,Bad Bellingen,Baden-Württemberg,47.731763,7.556794,2015
+Eckweg,3,78048,Villingen-Schwenningen,Baden-Württemberg,48.06987,8.465368,2015
+Rudolf-Diesel-Straße,3,54439,Saarburg,Rheinland-Pfalz,,,2015
+Bonner Straße,317,40589,Düsseldorf,Nordrhein-Westfalen,51.164046,6.851662,2015
+Moritzzwinger,10,6108,Halle (Saale),Sachsen-Anhalt,51.47897,11.96796,2015
+Universitätsring,10,6108,Halle (Saale),Sachsen-Anhalt,51.48736,11.96682,2015
+Oleariusstraße,1a,6108,Halle (Saale),Sachsen-Anhalt,51.48325,11.9668,2015
+Gustav-Anlauf-Straße,0,6108,Halle (Saale),Sachsen-Anhalt,51.48242,11.97272,2015
+Hansering,5,6108,Halle (Saale),Sachsen-Anhalt,51.48111,11.9755,2015
+Steindamm,94,20099,Hamburg,Hamburg,53.55555,10.017166,2015
+Am Flugplatz,64,88046,Friedrichshafen,Baden-Württemberg,47.672625,9.523245,2015
+An der Alster,65,20099,Hamburg,Hamburg,53.558132,10.005663,2015
+Bornstraße,18,20146,Hamburg,Hamburg,53.568175,9.981787,2015
+Grindelberg,66,20144,Hamburg,Hamburg,53.5753,9.977718,2015
+Freiimfelder Straße,74,6112,Halle (Saale),Sachsen-Anhalt,51.48527,11.9954,2015
+Niederheider Straße,132,40589,Düsseldorf,Nordrhein-Westfalen,51.174902,6.845049,2015
+Siegburger Straße,15,40591,Düsseldorf,Nordrhein-Westfalen,51.207038,6.808748,2015
+Julius-Leber-Straße,1,90473,Nürnberg,Bayern,49.397992,11.141557,2015
+Schuhstraße,44,91052,Erlangen,Bayern,49.591284,11.008751,2015
+Kraftsdorfer Straße,1,7629,Hermsdorf,Thüringen,50.889776,11.872676,2015
+Am Tiergarten,30,90480,Nürnberg,Bayern,49.450303,11.139344,2015
+Steinstr.,101,14480,Potsdam,Brandenburg,52.3825,13.14083,2015
+Markt,2,53539,Kelberg,Rheinland-Pfalz,50.28599,6.91836,2015
+Kesslerplatz,19,90489,Nürnberg,Bayern,49.453004,11.092775,2015
+Hüttenstraße,17,49716,Meppen,Niedersachsen,52.693917,7.298536,2015
+An der Eisenbahn,18,31535,Neustadt a. Rbge.,Niedersachsen,,,2015
+Lauberstrasse,4,79730,Murg-Hänner,Baden-Württemberg,47.594915,8.035577,2015
+Hauptstrasse,52,79730,Murg,Baden-Württemberg,47.553616,8.023323,2015
+Bahnhofsweg,6,31737,Rinteln,Niedersachsen,,,2015
+Keplerstraße,33,93073,Neutraubling,Bayern,48.98805,12.20407,2015
+Pommernstraße,4,93073,Neutraubling,Bayern,48.98031,12.19252,2015
+Alte Dorfstrasse,100,24253,Probsteierhagen,Schleswig-Holstein,54.364458,10.295602,2015
+Schrammstraße,1,97421,Schweinfurt,Bayern,50.041279,10.227362,2015
+Am Zeughaus,28,97421,Schweinfurt,Bayern,50.045706,10.229321,2015
+Bahnhpfsplatz,4,82211,Herrsching,Bayern,,,2015
+Daimlerstr.,39,74211,Leingarten,Baden-Württemberg,,,2015
+Walhallastraße,20,93083,Obertraubling,Bayern,48.97052,12.17517,2015
+Donaustraße,0,93086,Wörth a.d. Donau,Bayern,48.99895,12.39769,2015
+Röthleiner Weg,1,97506,Grafenrheinfeld,Bayern,49.996765,10.201765,2015
+Bunte Straße,35,48496,Hopsten,Nordrhein-Westfalen,52.37901,7.60371,2015
+Am Falbenholzweg,15,91126,Schwabach,Bayern,49.32233,11.051476,2015
+Martin-Luther-Platz,11-12,91126,Schwabach,Bayern,49.328757,11.022068,2015
+Kreuzgraben,8,99974,Mühlhausen,Thüringen,51.212,10.46145,2015
+Hermannstraße,13,20095,Hamburg,Hamburg,53.552021,9.996826,2015
+Zum Kurpark,0,57258,Freudenberg,Nordrhein-Westfalen,50.898617,7.875583,2015
+Am Seemooser Horn,20,88045,Friedrichshafen,Baden-Württemberg,47.658892,9.433681,2015
+Fallenbrunnen,17,88045,Friedrichshafen,Baden-Württemberg,47.66545,9.445376,2015
+Arnulfsplatz,2,93047,Regensburg,Bayern,49.01965,12.08981,2015
+St.-Peters-Weg,15,93047,Regensburg,Bayern,49.01536,12.09706,2015
+D.-Martin-Luther-Str.,2,93047,Regensburg,Bayern,49.01656,12.10107,2015
+Oppersdorfer Straße,3,93138,Lappersdorf,Bayern,49.05076,12.09116,2015
+Am Sportzentrum,0,93138,Lappersdorf,Bayern,49.0458,12.08365,2015
+Freiherr von Rotsmann Straße,50,35108,Allendorf,Hessen,,,2015
+Große Bäckerstraße,8,20095,Hamburg,Hamburg,53.548933,9.993134,2015
+Glockengießerwall,26,20095,Hamburg,Hamburg,53.555269,10.001099,2015
+Gertrudenkirchhof,10,20095,Hamburg,Hamburg,53.552621,10.001067,2015
+Altstädter Straße,2,20095,Hamburg,Hamburg,53.549381,10.004708,2015
+Alstertor,13,20095,Hamburg,Hamburg,53.552225,9.997597,2015
+Schlossallee,1,53913,Swisttal,Nordrhein-Westfalen,50.668921,6.915035,2015
+Talstraße,21,57250,Netphen,Nordrhein-Westfalen,50.91155,8.1033,2015
+Fürstabt-Gerbert-Straße,18,79837,Sankt Blasien,Baden-Württemberg,47.760085,8.131474,2015
+Zunftstraße,12,6847,Dessau-Roßlau,Sachsen-Anhalt,51.817284,12.218428,2015
+Hauzensteiner Straße,65,93128,Regenstafu,Bayern,49.11911,12.13779,2015
+Am Anger,5,91083,Baiersdorf,Bayern,,,2015
+Erlanger Straße,40,91080,Uttenreuth,Bayern,49.596872,11.063281,2015
+Marloffsteinerstraße,0,91080,Uttenreuth,Bayern,49.597417,11.074278,2015
+Bruckenhofer Straße,7,91080,Spardorf,Bayern,49.60444,11.055574,2015
+Saalestraße,2,97616,Bad Neustadt a. d. Saale,Bayern,50.317682,10.198868,2015
+Saalestraße,2,97616,Bad Neustadt a. d. Saale,Bayern,50.317682,10.198868,2015
+Saalestraße,2,97616,Bad Neustadt a. d. Saale,Bayern,50.317682,10.198868,2015
+Dr.-Gessler-Str.,22,93051,Regensburg,Bayern,49.00731,12.06284,2015
+Im Lettenhorst,10,67105,Schifferstadt,Rheinland-Pfalz,,,2015
+Moosstrasse,9,85669,Pastetten,Bayern,48.201814,11.946873,2015
+Tennenloherstraße,3,91054,Buckenhof,Bayern,49.592576,11.050456,2015
+Leyher Straße,69,90763,Fürth,Bayern,49.463221,11.008158,2015
+Mohriner Allee,21B,12347,Berlin,Berlin,52.443544,13.431949,2015
+Mohriner Allee,21B,12347,Berlin,Berlin,52.443544,13.431949,2015
+Dersumer Str.,10,26892,Heede,Niedersachsen,52.983195,7.290339,2015
+Morleystraße,3-7,57072,Siegen,Nordrhein-Westfalen,50.87423,8.01819,2015
+Freiherr von Rotsmann Straße,50,35108,Allendorf,Hessen,,,2015
+Mühlbacher Straße Busbahnhof,0,97616,Bad Neustadt,Bayern,50.319804,10.216281,2015
+Schulstrasse,7,49170,Hagen a.T.W.,Niedersachsen,52.197385,7.979366,2015
+Altmühlstr.,3,93059,Regensburg,Bayern,49.032241,12.115068,2015
+Goethestraße,17-19,97616,Bad Neustadt,Bayern,50.324547,10.212484,2015
+Hauptstraße,104,90562,Heroldsberg,Bayern,49.528341,11.151155,2015
+Königsplatz,8,90763,Fürth,Bayern,49.477602,10.990359,2015
+Jakob-Henle-Straße,8,90763,Fürth,Bayern,49.483622,10.972136,2015
+Johannisthaler Chaussee,335,12351,Berlin,Berlin,52.428739,13.451926,2015
+Hauptstraße,10,79777,Ühlingen-Birkendorf,Baden-Württemberg,47.720139,8.318419,2015
+Hauptkanal rechts,68/69,26871,Papenburg,Niedersachsen,53.078674,7.394819,2015
+Marktstr.,30,88212,Ravensburg,Baden-Württemberg,47.77991,9.61607,2015
+Weichser Weg,3,93059,Regensburg,Bayern,49.02634,12.11546,2015
+Hafenstraße,97,45356,Essen,Nordrhein-Westfalen,51.485481,6.977961,2015
+Hafenstraße,97,45356,Essen,Nordrhein-Westfalen,51.485511,6.977961,2015
+Hollager Straße,0,49134,Wallenhorst,Niedersachsen,52.346083,7.975733,2015
+Köschinger Forst Ost,0,85120,Hepberg,Bayern,48.837281,11.47115,2015
+Herbartstr.,15,14057,Berlin,Berlin,52.507096,13.285287,2015
+Friedrich-Ebert-Str.,14,83059,Kolbermoor,Bayern,,,2015
+Große Straße,75,49459,Lembruch,Niedersachsen,52.52564,8.36682,2015
+Weserstr.,1i,27572,Bremerhaven,Bremen,53.48901,8.604596,2015
+Weserstr.,1i,27572,Bremerhaven,Bremen,53.48901,8.604596,2015
+Gemeindezentrum,1,79790,Küssaberg-Rheinheim,Baden-Württemberg,47.593054,8.299903,2015
+Christstr.,9,44789,Bochum,Nordrhein-Westfalen,51.470915,7.219305,2015
+Friedrich-Ebert-Str.,14,83059,Kolbermoor,Bayern,,,2015
+Friedrich-Ebert-Str.,14,83059,Kolbermoor,Bayern,,,2015
+Marktplatz,11 - 13,91171,Greding,Bayern,49.04614,11.35275,2015
+Leihbühl,21,33165,Lichtenau (Westfalen),Nordrhein-Westfalen,51.621183,8.88645,2015
+Sperbersloher Straße,6,90596,Schwanstetten,Bayern,49.311351,11.125465,2015
+Eisenbahnstraße,1,66459,Kirkel,Saarland,49.28609,7.22661,2015
+Frankenthaler Str.,123,68307,Mannheim,Baden-Württemberg,49.555786,8.444943,2015
+Am See,1,85125,Kinding,Bayern,49.004078,11.448178,2015
+Am Mühlbach,3,85125,Kinding,Bayern,49.000581,11.380451,2015
+Bleeck,28,24576,Bad Bramstedt,Schleswig-Holstein,,,2015
+Sophie-Charlotten-Str.,105,14059,Berlin,Berlin,52.519445,13.286601,2015
+Clayallee,326,14169,Berlin,Berlin,52.438486,13.262563,2015
+Spessartstr.,8,14197,Berlin,Berlin,52.475632,13.316494,2015
+Hauptstraße,28,49509,Recke,Nordrhein-Westfalen,52.36772,7.71673,2015
