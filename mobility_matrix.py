@@ -2061,23 +2061,24 @@ a_revenue_fig.update_layout(
                         xaxis = dict(
                                     tickformat = '%Y' ,
                                      showgrid = True , 
-                                     gridcolor = 'white' ,
+                                     gridcolor = 'black' ,
                                      rangeslider = dict(visible = True)
                                 ) ,                       
                         yaxis = dict(
                                     tickprefix = '€' , 
                                     ticksuffix = 'B' ,
                                     showgrid = True , 
-                                    gridcolor = 'white'
+                                    gridcolor = 'black'
                                 ) ,
-                        plot_bgcolor = 'black' ,
+                        plot_bgcolor = 'white' ,
+                        paper_bgcolor = 'black' ,
                         font = dict(
                                     family = 'Futura' ,  # use 'Futura' as closest to AudiType
-                                    size = 16 ,
-                                    color = 'black'
+                                    size = 12 ,
+                                    color = 'white'
                                 ) ,
-                        width = 800 , 
-                        height = 500        
+                        width = 600 , 
+                        height = 400        
 )
 
 
@@ -2104,7 +2105,7 @@ a_revenue_growth_fig = px.line (
                                 growth_a_melted ,
                                 x = 'year' ,
                                 y = '%' ,
-                                title = 'Audi Revenue Growth 2015-2023'
+                                title = 'Audi Revenue Growth (2015-2023)'
 )
 
 a_revenue_growth_fig.update_traces(
@@ -2119,26 +2120,27 @@ a_revenue_growth_fig.update_layout(
                                     xaxis = dict(
                                                  tickformat = '%Y' ,
                                                  showgrid = True , 
-                                                 gridcolor = 'white' ,
+                                                 gridcolor = 'black' ,
                                                  rangeslider = dict(visible = True)
                                             ) ,  
                                     yaxis = dict(
                                                  ticksuffix = "%" ,
                                                  showgrid = True , 
-                                                 gridcolor = 'white' ,
+                                                 gridcolor = 'black' ,
                                                  tickmode = 'linear' ,  # set tick mode to linear
                                                  tick0 = 0 ,            # start ticks at 0
                                                  dtick = 3 ,            # step size of 1
                                                  range = [-4 , 16]
                                             ) ,
-                                    plot_bgcolor = 'black' ,
+                                    plot_bgcolor = 'white' ,
+                                    paper_bgcolor = 'black' ,
                                     font = dict(
                                                 family = 'Futura' ,     # use 'Futura' as closest to AudiType
-                                                size = 16 ,
-                                                color = 'black'
+                                                size = 12 ,
+                                                color = 'white'
                                             ) ,
-                                    width = 800 , 
-                                    height = 500              
+                                    width = 600 , 
+                                    height = 400              
 )
 
 
@@ -2165,7 +2167,7 @@ b_revenue_fig = px.line(
                         revenue_b_melted,
                         x = 'year' ,                            # years on the x-axis
                         y = 'revenue' ,                         # revenue on the y-axis
-                        title = 'BMW Revenue 2015-2023' ,
+                        title = 'BMW Revenue (2015-2023)' ,
 )
 
 b_revenue_fig.update_traces(
@@ -2180,23 +2182,24 @@ b_revenue_fig.update_layout(
                             xaxis = dict(
                                         tickformat = '%Y' , 
                                         showgrid = True, 
-                                        gridcolor = 'white' ,
+                                        gridcolor = '#6F6F6F' ,
                                         rangeslider = dict(visible = True)
                                     ),  
                             yaxis = dict(
                                         tickprefix = "€" , 
                                         ticksuffix = "B" , 
                                         showgrid = True , 
-                                        gridcolor = 'white'
+                                        gridcolor = '#6F6F6F'
                                     ) ,
-                            plot_bgcolor = 'lightgrey' ,
+                            plot_bgcolor = 'white' ,
+                            paper_bgcolor = '#6F6F6F' ,
                             font = dict(
                                         family = 'Helvetica' ,  # 'Helvetica' as most close to font used by bmw
-                                        size = 16 ,
+                                        size = 12 ,
                                         color = 'black'
                                     ) ,
-                            width = 800 , 
-                            height = 500                
+                            width = 600 , 
+                            height = 400                
 )
 
 
@@ -2238,26 +2241,27 @@ b_revenue_growth_fig.update_layout(
                                     xaxis = dict(
                                                 tickformat = '%Y' ,
                                                 showgrid = True , 
-                                                gridcolor = 'white' ,
+                                                gridcolor = '#6F6F6F' ,
                                                 rangeslider = dict(visible = True)
                                             ) ,  
                                     yaxis = dict(
                                                 ticksuffix = '%' ,
                                                 showgrid = True , 
-                                                gridcolor = 'white' ,
+                                                gridcolor = '#6F6F6F' ,
                                                 tickmode = 'linear' ,                   # set tick mode to linear
                                                 tick0 = 0 ,                             # start ticks at 0
                                                 dtick = 3 ,                             # step size of 3
                                                 range = [-12 , 19]
                                             ) ,
-                                    plot_bgcolor = 'lightgrey' ,
+                                    plot_bgcolor = 'white' ,
+                                    paper_bgcolor = '#6F6F6F' ,
                                     font = dict(
                                                 family = 'Helvetica' , 
-                                                size = 16 ,
+                                                size = 12 ,
                                                 color = 'black'
                                             ) ,
-                                    width = 900 ,
-                                    height = 700                 
+                                    width = 600 ,
+                                    height = 450                 
 )
 
 
@@ -2299,22 +2303,23 @@ m_revenue_fig.update_layout(
                             xaxis = dict(
                                         tickformat = '%Y' ,
                                         showgrid = True , 
-                                        gridcolor = 'white' ,
+                                        gridcolor = '#dcddd7' ,
                                         rangeslider = dict(visible = True)
                                     ) , 
                             yaxis = dict(
                                         tickprefix = '€' , 
                                         ticksuffix = 'B' ,
                                         showgrid = True , 
-                                        gridcolor = 'white'
+                                        gridcolor = '#dcddd7'
                                     ) ,
-                            width = 700 ,
-                            height = 500 ,
-                            plot_bgcolor = '#dcddd7' ,
+                            width = 600 ,
+                            height = 400 ,
+                            plot_bgcolor = 'white' ,
+                            paper_bgcolor = '#dcddd7' ,
                             font = dict(
                                         family = 'Noto Serif' ,
-                                        size = 16 ,
-                                        color = 'black'
+                                        size = 12 ,
+                                        color = '#231f20'
                                     )       
 )
 
@@ -2359,25 +2364,26 @@ m_revenue_growth_fig.update_layout(
                                     xaxis = dict(
                                                 tickformat = '%Y' ,
                                                 showgrid = True , 
-                                                gridcolor = 'white' ,
+                                                gridcolor = '#dcddd7' ,
                                                 rangeslider = dict(visible = True)
                                             ) , 
                                     yaxis = dict(
                                                 ticksuffix = '%' ,
                                                 showgrid = True ,
-                                                gridcolor = 'white' ,
+                                                gridcolor = '#dcddd7' ,
                                                 tickmode = 'linear',                    # set tick mode to linear
                                                 tick0 = 0,                              # start ticks at 0
                                                 dtick = 3,                              # step size of 3
                                                 range = [-3 , 16]
                                             ) ,
-                                    width = 900 ,
-                                    height = 700 ,
-                                    plot_bgcolor = '#dcddd7' ,
+                                    width = 600 ,
+                                    height = 400 ,
+                                    plot_bgcolor = 'white' ,
+                                    paper_bgcolor = '#dcddd7' ,
                                     font = dict(
                                                 family = 'Noto Serif' ,
-                                                size = 16 ,
-                                                color = 'black'
+                                                size = 12 ,
+                                                color = '#231f20'
                                             )       
 )
 
@@ -2429,12 +2435,12 @@ t_revenue_fig.update_layout(
                                         showgrid = True , 
                                         gridcolor = 'black'
                                     ) ,
-                            width = 700 ,
-                            height = 500 ,
+                            width = 600 ,
+                            height = 400 ,
                             plot_bgcolor = 'white' ,
                             font = dict(
                                         family = 'Arial' ,
-                                        size = 16 ,
+                                        size = 12 ,
                                         color = 'black'
                                     )
 )
@@ -2488,12 +2494,12 @@ t_revenue_growth_fig.update_layout(
                                                 dtick = 3,                              # step size of 3
                                                 range = [-16 , 18]
                                             ) ,
-                                    width = 900 ,
-                                    height = 700 ,
+                                    width = 600 ,
+                                    height = 500 ,
                                     plot_bgcolor = 'white' ,
                                     font = dict(
                                                 family = 'Arial' ,
-                                                size = 16 ,
+                                                size = 12 ,
                                                 color = 'black'
                                             )
 )
@@ -2539,21 +2545,22 @@ v_revenue_fig.update_layout(
                             xaxis = dict(
                                         tickformat = '%Y' ,
                                         showgrid = True , 
-                                        gridcolor = 'white' ,
+                                        gridcolor = '#A8A8A8' ,
                                         rangeslider = dict(visible = True)
                                     ) , 
                             yaxis = dict(
                                         tickprefix = '€' ,
                                         ticksuffix = 'B' ,
                                         showgrid = True , 
-                                        gridcolor = 'white'
+                                        gridcolor = '#A8A8A8'
                                     ) ,
-                            width = 700 ,
-                            height = 500 ,
-                            plot_bgcolor = '#A8A8A8' ,
+                            width = 600 ,
+                            height = 400 ,
+                            plot_bgcolor = 'white' ,
+                            paper_bgcolor = '#A8A8A8' ,
                             font = dict(
                                         family = 'Arial Rounded MT Bold' ,
-                                        size = 16 ,
+                                        size = 12 ,
                                         color = 'black'
                                     )
 )
@@ -2599,24 +2606,25 @@ v_revenue_growth_fig.update_layout(
                                     xaxis = dict(
                                                 tickformat = '%Y' ,
                                                 showgrid = True , 
-                                                gridcolor = 'white' ,
+                                                gridcolor = '#A8A8A8' ,
                                                 rangeslider = dict(visible = True)
                                             ) , 
                                     yaxis = dict(
                                                 ticksuffix = '%' ,
                                                 showgrid = True , 
-                                                gridcolor = 'white' ,
+                                                gridcolor = '#A8A8A8' ,
                                                 tickmode = 'linear',                        # set tick mode to linear
                                                 tick0 = 0,                                  # start ticks at 0
                                                 dtick = 3,                                  # step size of 3
                                                 range = [-25 , 18]
                                             ) ,
-                                    width = 900 ,
-                                    height = 700 ,
-                                    plot_bgcolor = '#A8A8A8' ,
+                                    width = 600 ,
+                                    height = 500 ,
+                                    plot_bgcolor = 'white' ,
+                                    paper_bgcolor = '#A8A8A8' ,
                                     font = dict(
                                                 family = 'Arial Rounded MT Bold' ,
-                                                size = 16 ,
+                                                size = 12 ,
                                                 color = 'black'
                                             )
 )
@@ -2663,13 +2671,13 @@ a_sales_fig.update_layout(
                                         tick0 = 0 ,            # start ticks at 0
                                         dtick = 100000
                                     ) ,
-                            width = 900 , 
-                            height = 700 ,
+                            width = 700 , 
+                            height = 500 ,
                             plot_bgcolor = 'white' ,
                             paper_bgcolor = 'black' ,  
                             font = dict(
                                         family = 'Futura' ,  
-                                        size = 16 ,
+                                        size = 12 ,
                                         color = 'white'
                                     )
 )
@@ -2713,22 +2721,22 @@ b_sales_fig = px.bar(
 b_sales_fig.update_layout(
                         xaxis = dict(
                                     showgrid = True , 
-                                    gridcolor = 'black'
+                                    gridcolor = '#6F6F6F'
                                 ) ,
                         yaxis = dict(
                                     showgrid = True , 
-                                    gridcolor = 'black' ,
+                                    gridcolor = '#6F6F6F' ,
                                     tickmode ='linear' ,        # set tick mode to linear
                                     tick0 = 0 ,                 # start ticks at 0
                                     dtick = 100000
                                 ) ,
-                        width = 900 , 
-                        height = 700 ,
-                        plot_bgcolor = 'lightgrey' ,
-                        paper_bgcolor = 'white' ,
+                        width = 700 , 
+                        height = 500 ,
+                        plot_bgcolor = 'white' ,
+                        paper_bgcolor = '#6F6F6F' ,
                         font = dict(
                                     family = 'Helvetica' ,  
-                                    size = 16 ,
+                                    size = 12 ,
                                     color = 'black'
                                 )
 )
@@ -2772,23 +2780,23 @@ m_sales_fig = px.bar(
 m_sales_fig.update_layout(
                         xaxis = dict(
                                     showgrid = True , 
-                                    gridcolor = 'black'
+                                    gridcolor = '#dcddd7'
                                 ) , 
                         yaxis = dict(
                                     showgrid = True , 
-                                    gridcolor = 'black' ,
+                                    gridcolor = '#dcddd7' ,
                                     tickmode = 'linear' ,  # set tick mode to linear
                                     tick0 = 0 ,            # start ticks at 0
                                     dtick = 100000
                                 ) ,
-                        width = 900 , 
-                        height = 700 ,
-                        plot_bgcolor = '#dcddd7' ,
-                        paper_bgcolor = 'white' ,
+                        width = 700 , 
+                        height = 500 ,
+                        plot_bgcolor = 'white' ,
+                        paper_bgcolor = '#dcddd7' ,
                         font = dict(
                                     family = 'Noto Serif' ,
-                                    size = 16 ,
-                                    color = 'black'
+                                    size = 12 ,
+                                    color = '#231f20'
                                 )
 )
 
@@ -2838,13 +2846,13 @@ t_sales_fig.update_layout(
                                     tick0 = 0 ,                 # start ticks at 0
                                     dtick = 300000
                                 ) ,
-                        width = 900 , 
-                        height = 700 ,
+                        width = 700 , 
+                        height = 600 ,
                         plot_bgcolor = 'white' ,
                         paper_bgcolor = 'white' ,
                         font = dict(
                                     family = 'Arial' ,
-                                    size = 16 ,
+                                    size = 12 ,
                                     color = 'black'
                                 )   
 )
@@ -2886,22 +2894,22 @@ v_sales_fig = px.bar(
 v_sales_fig.update_layout(
                         xaxis = dict(
                                     showgrid = True , 
-                                    gridcolor='black'
+                                    gridcolor='#A8A8A8'
                                 ) ,
                         yaxis = dict(
                                     showgrid = True , 
-                                    gridcolor = 'black' ,
+                                    gridcolor = '#A8A8A8' ,
                                     tickmode = 'linear' ,  
                                     tick0 = 0 ,            
                                     dtick = 300000 
                                 ) ,
-                        width=900 , 
-                        height=700 ,
-                        plot_bgcolor='white' ,
-                        paper_bgcolor='white' ,
+                        width = 700 , 
+                        height = 600 ,
+                        plot_bgcolor = 'white' ,
+                        paper_bgcolor = '#A8A8A8' ,
                         font = dict(
                                     family = 'Arial Rounded MT Bold' ,
-                                    size = 16 ,
+                                    size = 12 ,
                                     color = 'black'
                                 )
 )
@@ -3472,7 +3480,7 @@ def display_content(selected_tab) :
                                     html.Div(
                                         [
                                             html.P(
-                                                "Strategy Overview" ,
+                                                "Strategy Overview:" ,
                                                 className = "h2-audi"
                                             ) ,
 
@@ -3509,7 +3517,7 @@ def display_content(selected_tab) :
                                                     html.Li("Euro 7 Emission Standards (2022)")
                                                 ] ,
 
-                                                className = "aido-laws-impact"
+                                                className = "audi-laws-impact"
 
                                             )
 
@@ -3671,7 +3679,7 @@ def display_content(selected_tab) :
                                     html.Div(
                                         [
                                             html.P(
-                                                "Strategy Overview" ,
+                                                "Strategy Overview:" ,
                                                 className = "h2-bmw"
                                             ) ,
 
@@ -3748,7 +3756,7 @@ def display_content(selected_tab) :
                                     html.Div(
                                         [
                                             html.P(
-                                                "Impact" ,
+                                                "Impact:" ,
                                                 className = "bmw-revenue-impact-h"
                                             ) ,
 
@@ -3869,7 +3877,7 @@ def display_content(selected_tab) :
                                         [
 
                                             html.P(
-                                                "Strategy Overview" ,
+                                                "Strategy Overview:" ,
                                                 className = "h2-mercedes"
                                             ) ,
 
@@ -3949,7 +3957,7 @@ def display_content(selected_tab) :
                                     html.Div(
                                         [
                                             html.P(
-                                                "Impact" ,
+                                                "Impact:" ,
                                                 className = "mercedes-revenue-impact-h"
                                             ) ,
 
@@ -4070,7 +4078,7 @@ def display_content(selected_tab) :
                                         [
 
                                             html.P(
-                                                "Strategy Overview" ,
+                                                "Strategy Overview:" ,
                                                 className = "h2-toyota"
                                             ) ,
 
@@ -4150,7 +4158,7 @@ def display_content(selected_tab) :
                                         [
 
                                             html.P(
-                                                "Impact" ,
+                                                "Impact:" ,
                                                 className = "toyota-revenue-impact-h"
                                             ) ,
 
@@ -4272,7 +4280,7 @@ def display_content(selected_tab) :
                                     html.Div(
                                         [
                                             html.P(
-                                                "Strategy Overview" ,
+                                                "Strategy Overview:" ,
                                                 className = "h2-volkswagen"
                                             ) ,
 
@@ -4355,7 +4363,7 @@ def display_content(selected_tab) :
                                         [
 
                                             html.P(
-                                                "Impact" ,
+                                                "Impact:" ,
                                                 className = "volkswagen-revenue-impact-h"
                                             ) ,
 
