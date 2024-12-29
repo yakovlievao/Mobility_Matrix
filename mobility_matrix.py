@@ -4497,4 +4497,4 @@ def display_content(selected_tab) :
     return content
 
 if __name__ == "__main__" :
-    app.run_server(port=8091)
+    app.run_server(port=10000)
