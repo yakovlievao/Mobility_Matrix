@@ -7,7 +7,6 @@ import numpy as np
 import dash
 from dash import Dash, html, dcc, Input, Output
 import plotly.graph_objs as go
-import os
 
 
 # plot 1 (car sales)
@@ -4497,6 +4496,9 @@ def display_content(selected_tab) :
         
     return content
 
+server = app.server
+
 if __name__ == "__main__" :
-    port = int(os.environ.get("PORT", 8050))
+    import os
+    port = int(os.environ.get("PORT", 8000))
     app.run_server(host="0.0.0.0", port=port)
