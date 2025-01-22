@@ -19,26 +19,26 @@ body {
     width: 300px;
     font-family: Verdana, sans-serif;
     font-size: 14px;
-    color:#ECF0F1 !important;
-    background-color: #2C3E50; /* Blue background */
+    color: #2C3E50 !important;
+    background-color: #FFC300; /* Blue background */
     z-index: 10;
     padding: 0;
 }
 
 .Select-control {
     border: none;
-    background-color: #2C3E50; /* Blue background */
-    color:#ECF0F1 !important;
+    background-color: #FFC300; /* Blue background */
+    color:#2C3E50 !important;
 }
 
 .Select-value {
-    background-color: #2C3E50; /* Blue background */
-    color: #ECF0F1 !important;
+    background-color: #FFC300; /* Blue background */
+    color: #2C3E50 !important;
 }
 
 .VirtualizedSelectOption {
-    background-color: #2C3E50; /* Blue background */
-    color:#ECF0F1 !important;
+    background-color: #FFC300; /* Blue background */
+    color:#2C3E50 !important;
 }
 
 
